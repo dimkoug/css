@@ -1,0 +1,108 @@
+body {
+background-color: #0f0f0f;
+
+}
+.dash h1{
+	text-align: center;
+	font-size: 25px;
+	color:#0f0f0f;
+
+}
+
+
+.mytable th {
+	text-align:center;
+	color:#f0f0f0;
+	background-color: #0f0f0f;
+}
+
+.mytable td {
+	text-align:center;
+	color:#0f0f0f;
+	background-color: #f0f0f0;
+
+
+}
+
+/*
+
+
+Nav bar top
+
+
+
+*/
+
+.customnav {
+	background-color: #0f0f0f;
+}
+
+.customnav > .navbar-header  a{
+	color:#f0f0f0;
+
+
+}
+
+
+.customnav > .navbar-right  li a      {
+	background-color: #0f0f0f;
+	color:#f0f0f0;
+
+
+}
+
+.customnav > .navbar-right > .dropdown > .dropdown-menu{
+	background-color: #0f0f0f;
+
+
+}
+
+.customnav > .navbar-right  >  li.dropdown.active.open > a  {
+	background-color: #f0f0f0;
+	color:#0f0f0f;
+
+
+}
+
+
+.customnav > .navbar-right   li a:hover  {
+	background-color: #f0f0f0;
+	color:#0f0f0f;
+
+
+
+}
+
+.customnav > .navbar-right  > .dropdown >  .dropdown-menu > li a:hover {
+
+background-color: #f0f0f0;
+	color:#0f0f0f;
+
+
+}
+
+
+
+/*
+
+Nav bar side 
+
+*/
+
+
+.customnav > .sidebar > .sidebar-nav > #side-menu  li a {
+background-color: #0f0f0f;
+color:#f0f0f0;
+
+
+}
+
+
+.customnav > .sidebar > .sidebar-nav > #side-menu  li a:hover {
+background-color: #f0f0f0;
+color:#0f0f0f;
+
+
+}
+
+
